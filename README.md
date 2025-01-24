@@ -109,7 +109,3 @@ Our contributors have made this project possible. Thank you! 🙏
 <a href="https://github.com/tjelz/STACKS/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tjelz/STACKS" />
 </a>
-
-<div align="center">
-<sub>Made with <a href="https://contrib.rocks">contrib.rocks</a>.</sub>
-</div>
