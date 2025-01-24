@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tjelz/STACKS/blob/main/next/public/banenar2.png" height="400" alt="STACKS Logo"/>
+  <img src="https://github.com/tjelz/STACKS/blob/main/next/public/banenr2.png" height="400" alt="STACKS Logo"/>
 </p>
 <p align="center">
   <em>🤖 Assemble, configure, and deploy autonomous AI Agent(s) in your browser. 🤖   </em>
