@@ -17,11 +17,6 @@ It will attempt to reach the goal by thinking of tasks to do, executing them, an
 
 ---
 
-## ✨ Demo
-For the best demo experience, try [our site](https://agentgpt.reworkd.ai) directly :)
-
-[Demo Video](https://github.com/tjelz/STACKS/assets/50181239/5348e44a-29a5-4280-a06b-fe1429a8d99e)
-
 
 ## 👨‍🚀 Getting Started
 
