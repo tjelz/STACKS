@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tjelz/STACKS/main/next/public/banner.png?123" height="400" alt="AgentGPT Logo"/>
+  <img src="https://github.com/tjelz/STACKS/blob/main/next/public/banner.png" height="400" alt="AgentGPT Logo"/>
 </p>
 <p align="center">
   <em>🤖 Assemble, configure, and deploy autonomous AI Agent(s) in your browser. 🤖   </em>
