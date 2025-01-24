@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tjelz/STACKS/blob/main/next/public/banner1.png" height="400" alt="AgentGPT Logo"/>
+  <img src="https://github.com/tjelz/STACKS/blob/main/next/public/banner1.png" height="400" alt="STACKS Logo"/>
 </p>
 <p align="center">
   <em>🤖 Assemble, configure, and deploy autonomous AI Agent(s) in your browser. 🤖   </em>
@@ -11,7 +11,7 @@
   <a href="https://github.com/tjelz/STACKS/blob/master/docs/README.hu-Cs4K1Sr4C.md"><img src="https://img.shields.io/badge/lang-Hungarian-red.svg" alt="Hungarian"></a>
 </p>
 
-STACKS:AgentGPT allows you to configure and deploy Autonomous AI agents.
+STACKS allows you to configure and deploy Autonomous AI agents.
 Name your own custom AI and have it embark on any goal imaginable.
 It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
@@ -25,8 +25,8 @@ For the best demo experience, try [our site](https://agentgpt.reworkd.ai) direct
 
 ## 👨‍🚀 Getting Started
 
-The easiest way to get started with STACKS:AgentGPT is automatic setup CLI bundled with the project.
-The cli sets up the following for STACKS:AgentGPT :
+The easiest way to get started with STACKS is automatic setup CLI bundled with the project.
+The cli sets up the following for STACKS :
 - 🔐 [Environment variables](https://github.com/tjelz/STACKS/blob/main/.env.example) (and API Keys)
 - 🗂️ [Database](https://github.com/tjelz/STACKS/tree/main/db) (Mysql)
 - 🤖 [Backend](https://github.com/tjelz/STACKS/tree/main/platform) (FastAPI)
@@ -91,7 +91,7 @@ our [public roadmap](https://docs.reworkd.ai/essentials/roadmap).
 </h2>
 
 <p align="center">
-Join us in fueling the development of STACKS:AgentGPT, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀
+Join us in fueling the development of STACKS, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀
 </p>
 
 <p align="center">
