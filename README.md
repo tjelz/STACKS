@@ -11,7 +11,7 @@
   <a href="https://github.com/tjelz/STACKS/blob/master/docs/README.hu-Cs4K1Sr4C.md"><img src="https://img.shields.io/badge/lang-Hungarian-red.svg" alt="Hungarian"></a>
 </p>
 
-AgentGPT allows you to configure and deploy Autonomous AI agents.
+STACKS:AgentGPT allows you to configure and deploy Autonomous AI agents.
 Name your own custom AI and have it embark on any goal imaginable.
 It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
@@ -25,8 +25,8 @@ For the best demo experience, try [our site](https://agentgpt.reworkd.ai) direct
 
 ## 👨‍🚀 Getting Started
 
-The easiest way to get started with AgentGPT is automatic setup CLI bundled with the project.
-The cli sets up the following for AgentGPT:
+The easiest way to get started with STACKS:AgentGPT is automatic setup CLI bundled with the project.
+The cli sets up the following for STACKS:AgentGPT :
 - 🔐 [Environment variables](https://github.com/tjelz/STACKS/blob/main/.env.example) (and API Keys)
 - 🗂️ [Database](https://github.com/tjelz/STACKS/tree/main/db) (Mysql)
 - 🤖 [Backend](https://github.com/tjelz/STACKS/tree/main/platform) (FastAPI)
@@ -55,13 +55,13 @@ Before you get started, please make sure you have the following installed:
    **For Mac/Linux users** :apple: :penguin:
    ```bash
    git clone https://github.com/tjelz/STACKS.git
-   cd AgentGPT
+   cd STACKS_AgentGPT
    ./setup.sh
    ```
    **For Windows users** :windows:
    ```bash
    git clone https://github.com/tjelz/STACKS.git
-   cd AgentGPT
+   cd STACKS_AgentGPT
    ./setup.bat
    ```
 4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [http://localhost:3000](http://localhost:3000) on your web-browser.
@@ -91,7 +91,7 @@ our [public roadmap](https://docs.reworkd.ai/essentials/roadmap).
 </h2>
 
 <p align="center">
-Join us in fueling the development of AgentGPT, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀
+Join us in fueling the development of STACKS:AgentGPT, an open-source project pushing the boundaries of AI agents! Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀
 </p>
 
 <p align="center">
@@ -105,7 +105,3 @@ Join us in fueling the development of AgentGPT, an open-source project pushing t
 <p align="center">
 Our contributors have made this project possible. Thank you! 🙏
 </p>
-
-<a href="https://github.com/tjelz/STACKS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tjelz/STACKS" />
-</a>
